@@ -1,0 +1,36 @@
+{
+  "name": "cwrc-writer-layout",
+  "version": "0.0.0-development",
+  "description": "Components for the CWRC-Writer layout.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jchartrand/CWRC-WriterLayout.git"
+  },
+  "keywords": [
+    "xml",
+    "editor",
+    "rdf"
+  ],
+  "author": "“James <“jc.chartrand@gmail.com”> (http://openskysolutions.ca)",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/jchartrand/CWRC-WriterLayout/issues"
+  },
+  "homepage": "https://github.com/jchartrand/CWRC-WriterLayout#readme",
+  "devDependencies": {
+    "commitizen": "2.9.6",
+    "cz-conventional-changelog": "1.2.0",
+    "semantic-release": "^6.3.2"
+  },
+  "scripts": {
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post",
+    "commit": "git-cz",
+    "test": ""
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
+  }
+}
