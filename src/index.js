@@ -21,7 +21,6 @@ function addSelectionPanel(writer, domId) {
 }
 
 module.exports = {
-    
         addStructureTreePanel: addStructureTreePanel,
         addEntitiesListPanel:addEntitiesListPanel,
         addRelationsListPanel:addRelationsListPanel,
