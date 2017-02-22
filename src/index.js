@@ -20,12 +20,11 @@ function addSelectionPanel(writer, domId) {
     return new Selection({writer: writer, parentId: domId});
 }
 
-
 module.exports = {
     
-        addStructureTreePanel: addStructureTreePanel;
-        addEntitiesListPanel:addEntitiesListPanel;
-        addRelationsListPanel:addRelationsListPanel;
-        addValidationPanel:addValidationPanel;
-        addSelectionPanel:addSelectionPanel;
+        addStructureTreePanel: addStructureTreePanel,
+        addEntitiesListPanel:addEntitiesListPanel,
+        addRelationsListPanel:addRelationsListPanel,
+        addValidationPanel:addValidationPanel,
+        addSelectionPanel:addSelectionPanel
 };
