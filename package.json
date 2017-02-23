@@ -32,5 +32,11 @@
     "commitizen": {
       "path": "node_modules/cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "jquery": "3.1.1",
+    "jquery-ui": "1.12.1",
+    "jstree": "3.3.3",
+    "prismjs": "1.6.0"
   }
 }

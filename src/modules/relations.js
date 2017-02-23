@@ -2,10 +2,10 @@
 'use strict';
 
 var $ = require('jquery');
-require('jquery-ui-core');
+//require('jquery-ui-core');
 require('jquery-ui/ui/widgets/button');
-require('jquery-contextmenu');
-require('jquery-layout');
+//require('jquery-contextmenu');
+//require('jquery-layout');
 
 /**
  * @class Relations
