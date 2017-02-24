@@ -1,10 +1,10 @@
 //define(['jquery', 'jquery-ui', 'jquery.contextmenu'], function($, jqueryUi, jqueryContextMenu) {
 'use strict';
-
+window.jQuery = window.$ = require('jquery');
 var $ = require('jquery');
 //require('jquery-ui-core');
-require('jquery-ui/ui/widgets/button');
-require('jquery-ui/ui/widgets/controlgroup');
+//require('jquery-ui/ui/widgets/button');
+//require('jquery-ui/ui/widgets/controlgroup');
 //require('jquery-contextmenu');
     
 /**

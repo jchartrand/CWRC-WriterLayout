@@ -3,7 +3,7 @@
 
 var $ = require('jquery');
 //require('jquery-ui-core');
-require('jquery-ui/ui/widgets/button');
+//require('jquery-ui/ui/widgets/button');
     
 /**
  * @class Validation
