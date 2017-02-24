@@ -1,9 +1,9 @@
 //define(['jquery', 'jquery-ui'], function($, jqueryUi) {
 'use strict';
 
-var $ = require('jquery');
+//var $ = require('jquery');
 //require('jquery-ui-core');
-require('jquery-ui/ui/widgets/button');
+//require('jquery-ui/ui/widgets/button');
 //require('jquery-contextmenu');
 //require('jquery-layout');
 

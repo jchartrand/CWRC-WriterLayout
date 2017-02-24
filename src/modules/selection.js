@@ -1,6 +1,6 @@
 //define(['jquery','jquery.snippet'], function($, snippet) {
 
-var $ = require('jquery');
+//var $ = require('jquery');
 var Prism = require('prismjs');
     
 /**
